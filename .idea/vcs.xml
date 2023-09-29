@@ -2,17 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/awesome-flipperzero-withModules" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/awesome-flipperzero-withModules/PLAYGROUND" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/awesome-flipperzero-withModules/badusb/CharlesTheGreat77" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/awesome-flipperzero-withModules/badusb/FalsePhilosopher" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/awesome-flipperzero-withModules/badusb/FlipperShits" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/awesome-flipperzero-withModules/badusb/Jakoby" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/awesome-flipperzero-withModules/badusb/Kavitate" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/awesome-flipperzero-withModules/badusb/UNC0V3R3D" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/awesome-flipperzero-withModules/badusb/atomiczsec" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/awesome-flipperzero-withModules/badusb/nocomp" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/awesome-flipperzero-withModules/fw/OFW" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/awesome-flipperzero-withModules/fw/RogueMasterWApps" vcs="Git" />
   </component>
 </project>
